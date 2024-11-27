@@ -1,0 +1,963 @@
+fileFormatVersion: 2
+guid: 4f2f40fd880c20e47bc88d41d92a45e5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carmina 03_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 912
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.23, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f53ccd334476249afdd7e76573a63c
+      internalID: -1256160146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 912
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.29, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305dcc96f6b53894d953c63f5dc37ece
+      internalID: -1227382428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 912
+        width: 29
+        height: 37
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb585845534edc46bd620509ac73c58
+      internalID: 1779644199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 911
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: 0.18, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f824ff9fb9159341a8c6a49f3469f38
+      internalID: 1210879279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 911
+        width: 73
+        height: 36
+      alignment: 9
+      pivot: {x: 0.29, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5324b3e9e44b30c4985a282cbfea8efb
+      internalID: -1630573367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_5
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 910
+        width: 73
+        height: 37
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71625d151ac0ad47aac8c7b153f0bd3
+      internalID: -1011604370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_6
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 908
+        width: 73
+        height: 38
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8639bbf9720ef24db7e4c71fa523c99
+      internalID: 541014374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_7
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 912
+        width: 41
+        height: 30
+      alignment: 9
+      pivot: {x: 0.48, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cd31d8f1684e343a69399022db0e09
+      internalID: -105245381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_8
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 912
+        width: 44
+        height: 34
+      alignment: 9
+      pivot: {x: 0.48, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578183089c8449b49844c9d60bf2bb76
+      internalID: -923952723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_9
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 912
+        width: 44
+        height: 39
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d43799e635604a4e91dd61275cb1ce6
+      internalID: 125298850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 768
+        width: 44
+        height: 36
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9e1a978bcba524c9ec445c4c58e509
+      internalID: -1777985423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 768
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06a1e1697fb334439c6cf656408d1b7
+      internalID: -2147236276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 768
+        width: 68
+        height: 35
+      alignment: 9
+      pivot: {x: 0.07, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eab25a7741ab442b506a9febd37284
+      internalID: -653877274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 768
+        width: 65
+        height: 35
+      alignment: 9
+      pivot: {x: 0.078, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aac35d344c060429f4e35fb9cabc79
+      internalID: -995685281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_14
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 768
+        width: 44
+        height: 33
+      alignment: 9
+      pivot: {x: 0.045, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68980a6c114a3ac4ca1061335aa3b5ec
+      internalID: 75572822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_15
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 768
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac69edc3ec1686b43837d05deb2d94b9
+      internalID: -1219307475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_28
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 768
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0e134dbbfd3394eb5afc04c988f5fa
+      internalID: 156027711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_17
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 768
+        width: 44
+        height: 36
+      alignment: 9
+      pivot: {x: 0.46, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7338a25bedf215c439968d9c85a7a70f
+      internalID: 44740290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_18
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 768
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fdb82a47a616b40b5669e76c4f997e
+      internalID: -494165779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_19
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 768
+        width: 66
+        height: 35
+      alignment: 9
+      pivot: {x: 0.078, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfba7e9bac08a843988843087154a57
+      internalID: -1922338624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_20
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 768
+        width: 65
+        height: 35
+      alignment: 9
+      pivot: {x: 0.078, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7e921b7f3807047865cc35c0614422
+      internalID: -1550226771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_21
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 768
+        width: 44
+        height: 35
+      alignment: 9
+      pivot: {x: 0.05, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6913d11470118941a5bf00e4d36f03b
+      internalID: 693347169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_22
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 768
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bd008aed3e5a84aa4ce61423c9dfb1
+      internalID: -158365803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_23
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 768
+        width: 44
+        height: 36
+      alignment: 9
+      pivot: {x: 0.46, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8464e814d26f5459d30682d50e50cf
+      internalID: 590704099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_24
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 768
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.455, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6949e723a35319748bfb2581c7878ced
+      internalID: -1182105216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_25
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 768
+        width: 66
+        height: 35
+      alignment: 9
+      pivot: {x: 0.075, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948ce672ad5919e4aa5fbc9bdb46d1f5
+      internalID: 1632512072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_26
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 768
+        width: 64
+        height: 33
+      alignment: 9
+      pivot: {x: 0.08, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad11f214ca525a45b7a701749278812
+      internalID: -402227632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 03_27
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 768
+        width: 64
+        height: 33
+      alignment: 9
+      pivot: {x: 0.035, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07909cfbfffee0c41be39f933738da04
+      internalID: 1060210169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 624
+        width: 35
+        height: 32
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355aeefc18199834bab2b45f7d16540e
+      internalID: -1113208506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 624
+        width: 38
+        height: 32
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a9665b0d94ee0408ce6c1a2380e5f9
+      internalID: 898680641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry3
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 624
+        width: 36
+        height: 32
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bfdd1bfd8cddf44982c9d3e0e6b917
+      internalID: -937043112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 624
+        width: 37
+        height: 32
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39eed26965c3ce741a76d74238fc4df6
+      internalID: 534955039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 624
+        width: 35
+        height: 32
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c192ff78ed9acac47a02d7a9bc9a9aa6
+      internalID: -1193973630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry6
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 624
+        width: 31
+        height: 28
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b641981f851324b96bef857520bcbc
+      internalID: -160648194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry7
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 624
+        width: 41
+        height: 30
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738b2dc49342e7546ba6813fac866fe5
+      internalID: -834458746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry8
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 624
+        width: 47
+        height: 33
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267dc26af4884884a9c2a287638a71a9
+      internalID: 1448650905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry9
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 624
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d211cdb32fe5943977988b5e953e9c
+      internalID: 776026182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parry10
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 624
+        width: 42
+        height: 33
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7ccb77ba2aaff4ea676698fbd6a427
+      internalID: -452067182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Carmina 03_0: -1256160146
+      Carmina 03_1: -1227382428
+      Carmina 03_10: -1777985423
+      Carmina 03_11: -2147236276
+      Carmina 03_12: -653877274
+      Carmina 03_13: -995685281
+      Carmina 03_14: 75572822
+      Carmina 03_15: -1219307475
+      Carmina 03_17: 44740290
+      Carmina 03_18: -494165779
+      Carmina 03_19: -1922338624
+      Carmina 03_2: 1779644199
+      Carmina 03_20: -1550226771
+      Carmina 03_21: 693347169
+      Carmina 03_22: -158365803
+      Carmina 03_23: 590704099
+      Carmina 03_24: -1182105216
+      Carmina 03_25: 1632512072
+      Carmina 03_26: -402227632
+      Carmina 03_27: 1060210169
+      Carmina 03_28: 156027711
+      Carmina 03_3: 1210879279
+      Carmina 03_4: -1630573367
+      Carmina 03_5: -1011604370
+      Carmina 03_6: 541014374
+      Carmina 03_7: -105245381
+      Carmina 03_8: -923952723
+      Carmina 03_9: 125298850
+      Parry1: -1113208506
+      Parry10: -452067182
+      Parry2: 898680641
+      Parry3: -937043112
+      Parry4: 534955039
+      Parry5: -1193973630
+      Parry6: -160648194
+      Parry7: -834458746
+      Parry8: 1448650905
+      Parry9: 776026182
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

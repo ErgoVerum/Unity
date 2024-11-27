@@ -1,0 +1,699 @@
+fileFormatVersion: 2
+guid: e5a4a1a480e9c6948b25d9f2767f60bf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Holy Heal_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 24
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.42, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5259043d8a7656c468db77956957d449
+      internalID: -1588716159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 24
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.42, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0e00f0ac93bfa41a7dcc40e0b2b847
+      internalID: -1594870596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 24
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.42, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668176cb8f1c9c040bdad0327b057e81
+      internalID: 1482070305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 24
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.42, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178ec2e426e85bd438ba6c4139ed3225
+      internalID: 499148547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_4
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 9
+        width: 75
+        height: 56
+      alignment: 9
+      pivot: {x: 0.47, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaea894066848b14ca47dcd101691708
+      internalID: -2029405592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 11
+        width: 56
+        height: 54
+      alignment: 9
+      pivot: {x: 0.47, y: 0.245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf39addafba5254ba6ad1cfa96e22d4
+      internalID: -1890156521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_6
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 14
+        width: 41
+        height: 51
+      alignment: 9
+      pivot: {x: 0.47, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d90f01331d0b0498c1fb9232e991a5
+      internalID: -1289243894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_7
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 12
+        width: 35
+        height: 53
+      alignment: 9
+      pivot: {x: 0.49, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510c31ed41a6c3847a67abfe2d6e9210
+      internalID: 154350716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_8
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 12
+        width: 48
+        height: 53
+      alignment: 9
+      pivot: {x: 0.48, y: 0.23050089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1771e9198afa634db506eb32c94e415
+      internalID: 1440269035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_9
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 12
+        width: 48
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23272118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680f9131fad5cee419e860946dd8448f
+      internalID: 1477558554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_10
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 11
+        width: 50
+        height: 54
+      alignment: 9
+      pivot: {x: 0.48, y: 0.24407253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9ff5527a1ab3046959e59c7bf5f6f0
+      internalID: -1015690810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_11
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 11
+        width: 49
+        height: 54
+      alignment: 9
+      pivot: {x: 0.53, y: 0.24260227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61bf751c4ecb2c4bb993a615474358c
+      internalID: -1808236084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_12
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 12
+        width: 49
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5296494, y: 0.22808899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0e73b05ed28b343b9d7c2b8cd77727
+      internalID: -2025975404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_13
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 12
+        width: 53
+        height: 53
+      alignment: 9
+      pivot: {x: 0.49180746, y: 0.22808899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2922ba1ba02e0e249bab4b45ff286bd7
+      internalID: 1115441402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_14
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 11
+        width: 50
+        height: 54
+      alignment: 9
+      pivot: {x: 0.47969726, y: 0.24044769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98756365bbe3440478226edcd247cdc3
+      internalID: 574652304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_15
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 11
+        width: 45
+        height: 54
+      alignment: 9
+      pivot: {x: 0.46728244, y: 0.24255441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fccecad179b03047a7cb0eeaea7e0ba
+      internalID: -648062369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_16
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 13
+        width: 44
+        height: 53
+      alignment: 9
+      pivot: {x: 0.47141334, y: 0.2134124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d29b3ac010c5c94e87db195cafe146b
+      internalID: -802284434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_17
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 13
+        width: 33
+        height: 54
+      alignment: 9
+      pivot: {x: 0.4242868, y: 0.2094604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18e20acf193dc24fb9a1d3521769c04
+      internalID: -1969624116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_18
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 7
+        width: 48
+        height: 77
+      alignment: 9
+      pivot: {x: 0.45756277, y: 0.22243585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9867ba2075216934581fc0fabdd74cd9
+      internalID: -358785176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_19
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 8
+        width: 76
+        height: 74
+      alignment: 9
+      pivot: {x: 0.52517056, y: 0.21886733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f4cdfd07fa04c43a9eb89151563050
+      internalID: 1036426145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_20
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 8
+        width: 67
+        height: 80
+      alignment: 9
+      pivot: {x: 0.49063703, y: 0.20245227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d407a3ddeb0cf6144a66744817512cd9
+      internalID: -1829158286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_21
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 14
+        width: 49
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4715103, y: 0.13785797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4842e91dcda3a34eaa34beb25f17967
+      internalID: 678656219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_22
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 10
+        width: 44
+        height: 78
+      alignment: 9
+      pivot: {x: 0.36563388, y: 0.1811254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0c38d8abcd281478b886dbdfdd54b2
+      internalID: -884565827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_23
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 12
+        width: 43
+        height: 70
+      alignment: 9
+      pivot: {x: 0.44142613, y: 0.17488341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dead7195796b6934ba61303aca6c358b
+      internalID: -1377718683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_24
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 15
+        width: 39
+        height: 64
+      alignment: 9
+      pivot: {x: 0.41324556, y: 0.14397329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86703832cb883344bbc26b2b45f30a8
+      internalID: 1058677234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Heal_25
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 16
+        width: 40
+        height: 59
+      alignment: 9
+      pivot: {x: 0.41011658, y: 0.14278804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614abd90c2570f041b604a7be85de25c
+      internalID: 1503817969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Holy Heal_0: -1588716159
+      Holy Heal_1: -1594870596
+      Holy Heal_10: -1015690810
+      Holy Heal_11: -1808236084
+      Holy Heal_12: -2025975404
+      Holy Heal_13: 1115441402
+      Holy Heal_14: 574652304
+      Holy Heal_15: -648062369
+      Holy Heal_16: -802284434
+      Holy Heal_17: -1969624116
+      Holy Heal_18: -358785176
+      Holy Heal_19: 1036426145
+      Holy Heal_2: 1482070305
+      Holy Heal_20: -1829158286
+      Holy Heal_21: 678656219
+      Holy Heal_22: -884565827
+      Holy Heal_23: -1377718683
+      Holy Heal_24: 1058677234
+      Holy Heal_25: 1503817969
+      Holy Heal_3: 499148547
+      Holy Heal_4: -2029405592
+      Holy Heal_5: -1890156521
+      Holy Heal_6: -1289243894
+      Holy Heal_7: 154350716
+      Holy Heal_8: 1440269035
+      Holy Heal_9: 1477558554
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

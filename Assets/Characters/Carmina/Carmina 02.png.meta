@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 920400d7660dfb64e9c4db0bc2f30e94
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carmina 02_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 440
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.39, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b200d23a35bfb844eb79f60eae0eae7a
+      internalID: 1660066848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 440
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94237a249e29f844182f422e368c27dd
+      internalID: -1101149142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 440
+        width: 37
+        height: 49
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5334121f8eac9274b8ce4fc7e49fcb87
+      internalID: -331866632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 440
+        width: 38
+        height: 50
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc15773846d8b748a1319f2e002d326
+      internalID: -1132425598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 439
+        width: 38
+        height: 52
+      alignment: 9
+      pivot: {x: 0.37, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638781c6780f4d848a28de073e055f89
+      internalID: 933182986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 439
+        width: 31
+        height: 52
+      alignment: 9
+      pivot: {x: 0.42, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11353feb87f5df42a591958746aa5d2
+      internalID: -1817520619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 332
+        width: 34
+        height: 38
+      alignment: 9
+      pivot: {x: 0.32, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e10fd72547769c42975f1939d62ddb1
+      internalID: -708887363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 331
+        width: 41
+        height: 38
+      alignment: 9
+      pivot: {x: 0.485, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aef04c0a7fdd344884369b78b6b41b
+      internalID: -1264922330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 331
+        width: 41
+        height: 39
+      alignment: 9
+      pivot: {x: 0.485, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf03d681cc52614badfc70f6aff86fd
+      internalID: 1997120934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 331
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.39, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37f7f45c1652614d9ebcb2190c3702b
+      internalID: -1116090533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 331
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca8a16435a5d104d8fe5b02145a314b
+      internalID: -1636421679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_11
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 331
+        width: 51
+        height: 34
+      alignment: 9
+      pivot: {x: 0.115, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41ad5d57ba44c44ea9c3119d356b06c
+      internalID: 348580538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_12
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 331
+        width: 52
+        height: 34
+      alignment: 9
+      pivot: {x: 0.115, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc3e9396ff3e9044a4b0a3196328ade
+      internalID: -1982107700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 330
+        width: 35
+        height: 34
+      alignment: 9
+      pivot: {x: 0.17, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf175ca7c22ebc458bc0363adfe39c9
+      internalID: -1669119494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_14
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 330
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.41, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914c9fadab230ad4ba1aaeb2cab370bf
+      internalID: 2116922068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_15
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 330
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7331bf638199b524bbc8f3180277d17b
+      internalID: -332677956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_16
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 331
+        width: 36
+        height: 33
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330ea4b799ee05e4292ed75d778093e7
+      internalID: 691356963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_17
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 331
+        width: 49
+        height: 48
+      alignment: 9
+      pivot: {x: 0.245, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fde5c3033bf1747b62d6843c09f44a
+      internalID: -355698193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_18
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 330
+        width: 40
+        height: 48
+      alignment: 9
+      pivot: {x: 0.37, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c831ce125efa5bc46a92c9d3efff2276
+      internalID: 646842585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_19
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 330
+        width: 38
+        height: 40
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb753594a1509e94d9f0c39844aff10a
+      internalID: 800781512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_20
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 330
+        width: 42
+        height: 37
+      alignment: 9
+      pivot: {x: 0.47, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb95d42b4acac194da8821953c0d5016
+      internalID: 509219341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_21
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 330
+        width: 43
+        height: 34
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6054a22b265003f42b8d0b3bc3a4941d
+      internalID: 2019386634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_22
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 329
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.16, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cafc2badb6bf043b61ef6f9b6510f5
+      internalID: 405514956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_23
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 330
+        width: 44
+        height: 34
+      alignment: 9
+      pivot: {x: 0.229, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2727567ca393a4b9639ef0551e1730
+      internalID: -1168595565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_24
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 324
+        width: 73
+        height: 34
+      alignment: 9
+      pivot: {x: 0.095, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d0728ef84a75f4a9c50d02567f2dc5
+      internalID: 1374540709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_35
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 263
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 0.28, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe583f88ef386524ca86c154bd677b6b
+      internalID: 820664778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_26
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 263
+        width: 69
+        height: 36
+      alignment: 9
+      pivot: {x: 0.115, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dc979553b29fe44a59f05faa9077eb
+      internalID: -362335485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_27
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 263
+        width: 68
+        height: 36
+      alignment: 9
+      pivot: {x: 0.1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5d86b9ea189cd4cba0b9f1dbb060dc
+      internalID: 1855119559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_28
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 263
+        width: 53
+        height: 35
+      alignment: 9
+      pivot: {x: 0.13, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a40a6317496fdf43b0b0d51e5015bea
+      internalID: -633201079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carmina 02_29
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 263
+        width: 51
+        height: 36
+      alignment: 9
+      pivot: {x: 0.17505841, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4551afcb69caeea4b942e67e944cab05
+      internalID: 921711540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Carmina 02_0: 1660066848
+      Carmina 02_1: -1101149142
+      Carmina 02_10: -1636421679
+      Carmina 02_11: 348580538
+      Carmina 02_12: -1982107700
+      Carmina 02_13: -1669119494
+      Carmina 02_14: 2116922068
+      Carmina 02_15: -332677956
+      Carmina 02_16: 691356963
+      Carmina 02_17: -355698193
+      Carmina 02_18: 646842585
+      Carmina 02_19: 800781512
+      Carmina 02_2: -331866632
+      Carmina 02_20: 509219341
+      Carmina 02_21: 2019386634
+      Carmina 02_22: 405514956
+      Carmina 02_23: -1168595565
+      Carmina 02_24: 1374540709
+      Carmina 02_26: -362335485
+      Carmina 02_27: 1855119559
+      Carmina 02_28: -633201079
+      Carmina 02_29: 921711540
+      Carmina 02_3: -1132425598
+      Carmina 02_35: 820664778
+      Carmina 02_4: 933182986
+      Carmina 02_5: -1817520619
+      Carmina 02_6: -708887363
+      Carmina 02_7: -1264922330
+      Carmina 02_8: 1997120934
+      Carmina 02_9: -1116090533
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

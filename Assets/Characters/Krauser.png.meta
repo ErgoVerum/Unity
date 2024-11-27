@@ -1,0 +1,1682 @@
+fileFormatVersion: 2
+guid: 5a38ab9daa4abff40b9c9bbe12bdd75d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Krauser_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 704
+        width: 54
+        height: 50
+      alignment: 9
+      pivot: {x: 0.39, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f32a25a3d9a832459a4c063ce1425a2
+      internalID: -987207195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 704
+        width: 53
+        height: 50
+      alignment: 9
+      pivot: {x: 0.395, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838af14bc5622fc4a9c77dd9ae02bbde
+      internalID: 875388860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 704
+        width: 52
+        height: 51
+      alignment: 9
+      pivot: {x: 0.405, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254b9cfb03581f34892e400931da428c
+      internalID: 170864721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 704
+        width: 52
+        height: 51
+      alignment: 9
+      pivot: {x: 0.422, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1329ed74266a9448906b4dd254a2bed
+      internalID: 843894185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_4
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 704
+        width: 52
+        height: 51
+      alignment: 9
+      pivot: {x: 0.422, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6d24228253ff24c863e5458370dfda
+      internalID: -1649211897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 704
+        width: 52
+        height: 51
+      alignment: 9
+      pivot: {x: 0.405, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f26d8f41d8e633448a416c062593114
+      internalID: -162207162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_6
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 704
+        width: 53
+        height: 51
+      alignment: 9
+      pivot: {x: 0.395, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b572b49eddca64d9d9acf100f876c4
+      internalID: 707751990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_7
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 704
+        width: 54
+        height: 51
+      alignment: 9
+      pivot: {x: 0.39, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39650a0eaf304f84b88e0e5b57713604
+      internalID: 551804495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 592
+        width: 56
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb80a07a75f636748a1a0090495310d4
+      internalID: 1249609313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 592
+        width: 56
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b73ba9251f3f2147bda79cd46401626
+      internalID: -1639133604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 592
+        width: 56
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026bd52ea8e17294a8bdd5c2d59e47a7
+      internalID: -2147349291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_11
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 592
+        width: 62
+        height: 50
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad7f8d8540ade244adfff6c53ab6d51
+      internalID: -1253481996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_12
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 592
+        width: 56
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d296a8f2d41b27478eec01b1b3a7375
+      internalID: 559138056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_13
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 592
+        width: 59
+        height: 49
+      alignment: 9
+      pivot: {x: 0.47, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6f0ceae7f949c4598c7af5d94503b3
+      internalID: -1336350286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_14
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 592
+        width: 51
+        height: 47
+      alignment: 9
+      pivot: {x: 0.58, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f88451cdf30e44e82b3f4cbf4d7cca
+      internalID: 1564984271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_15
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 592
+        width: 49
+        height: 46
+      alignment: 9
+      pivot: {x: 0.58, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035abded66476364e9585d807ee10856
+      internalID: -791811993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_16
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 592
+        width: 58
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330c002be067fca4f81d38bedacb71d7
+      internalID: 1332508783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_17
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 592
+        width: 53
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b32f50acc333b24e9e6ba8d7cd7ee3c
+      internalID: -1934912056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 483
+        width: 47
+        height: 63
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97423a8074564a643bc8baeb76402b65
+      internalID: -428894254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 475
+        width: 94
+        height: 65
+      alignment: 9
+      pivot: {x: 0.3, y: 0.078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a05d29d70d6d348848bed043528d86
+      internalID: -677253689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 475
+        width: 72
+        height: 45
+      alignment: 9
+      pivot: {x: 0.33, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9b64a63ea743b4688c4bbac534bfcf
+      internalID: 1539291242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_21
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 468
+        width: 54
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24050425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32231b4ab63f8542aa8a14aab075a3a
+      internalID: -1050803297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_22
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 480
+        width: 51
+        height: 59
+      alignment: 9
+      pivot: {x: 0.415, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0c7e0f4e16ae949857569bb787b016
+      internalID: 1306438901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_23
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 480
+        width: 93
+        height: 60
+      alignment: 9
+      pivot: {x: 0.23, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748fb9d1a97ddba4db712bdbe740848f
+      internalID: 1893222343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_24
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 481
+        width: 84
+        height: 49
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869871d01d0318f4f98958f6c741a010
+      internalID: -1243292326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_25
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 481
+        width: 47
+        height: 49
+      alignment: 9
+      pivot: {x: 0.31, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1edf5389403f24fbc64a6d8d5a8d20
+      internalID: -1404744234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 368
+        width: 56
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e13e2dced8d0147954549ce88b9e58
+      internalID: 2123087654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_27
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 368
+        width: 59
+        height: 48
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981ed8f15f3503243a393c2e4c2eb77e
+      internalID: 1821187971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_28
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 364
+        width: 92
+        height: 54
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9205f22dc8677e4cb1e569e35dcb996
+      internalID: 451508996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 366
+        width: 75
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22872226ab551da4b882f2a868699a33
+      internalID: -573442551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_30
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 367
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd51c2117d45044c9a45847b8d7a666
+      internalID: -1553979117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_31
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 366
+        width: 49
+        height: 45
+      alignment: 9
+      pivot: {x: 0.62, y: 0.04593099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2275d8ed5989794982d51fab53142d5
+      internalID: 1400487317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_32
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 367
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0.62, y: 0.022294363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7634b09a55f8f704984ae0530342c33e
+      internalID: 485422243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_33
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 366
+        width: 57
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca93b86a2600d849844d01d910aa586
+      internalID: -1259429642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_34
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 361
+        width: 80
+        height: 65
+      alignment: 9
+      pivot: {x: 0.45, y: 0.11226854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e706da8124a15e429e1eae3aff2464f
+      internalID: -1972557940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_35
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 368
+        width: 71
+        height: 55
+      alignment: 9
+      pivot: {x: 0.37, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfe9b9909f66e745b9eb72f6f3f11db
+      internalID: 1313875542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_36
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 362
+        width: 44
+        height: 64
+      alignment: 9
+      pivot: {x: 0.55, y: 0.1129446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79b23c0986a28e43bb651ee3a9d46e6
+      internalID: 2107367050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_37
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 368
+        width: 50
+        height: 54
+      alignment: 9
+      pivot: {x: 0.6159302, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4035eef5f8cdfbe40a433e4945ee6eb3
+      internalID: 465758983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_38
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 362
+        width: 44
+        height: 68
+      alignment: 9
+      pivot: {x: 0.6, y: 0.08730271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709c665256c4d3a42b688d3246100da3
+      internalID: -1299980448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_39
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 362
+        width: 42
+        height: 62
+      alignment: 9
+      pivot: {x: 0.6, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a33b5e6ffb7cf24b89a6514985b3449
+      internalID: -1852223785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_40
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 362
+        width: 50
+        height: 62
+      alignment: 9
+      pivot: {x: 0.665, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9649e1d856ccdd84badbb8f3d43cbe73
+      internalID: 1911149394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 261
+        width: 38
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5648676b397c272469b1ca68ce850878
+      internalID: -1851725184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 262
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0928cf17578fcf445a8abbeb07636e7a
+      internalID: -425102460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap5
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 262
+        width: 42
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5b30cd9cb660e4b80bed98015d5a54
+      internalID: 1361064259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap6
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 262
+        width: 42
+        height: 45
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30c196ea2635c24db7476602ac87770
+      internalID: -2040515953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 244
+        width: 85
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02d7ceec04a1ce4fac2419a49bb6569
+      internalID: 623880657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap8
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 237
+        width: 78
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a1bdd6c6f2b984c9086ed2a34c96b3
+      internalID: 2002660671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 256
+        width: 60
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943aaab82fbe6f6408bd14ccca5de650
+      internalID: -1110193037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 256
+        width: 56
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb450a66dc07944085e754378517a33
+      internalID: 1181467968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap9
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 237
+        width: 47
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91713fbdfc00d6f44b9c884cf34d04ac
+      internalID: -1461804927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap10
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 238
+        width: 47
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ea262bfd6118d41b4f8fe1558dad7d
+      internalID: 1108921200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap11
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 244
+        width: 42
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5244753ee0cce5644995ec587271ca6d
+      internalID: -1335669524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leap12
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 256
+        width: 51
+        height: 44
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9746d13d5478804c807c0fa838a176f
+      internalID: -1782112069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_61
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 144
+        width: 55
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b22fbb3f0dc99c4ca1ffc7aba6b8f8c
+      internalID: -319364852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_62
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 144
+        width: 56
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa96b32cde1f2bd4192a995ad51ce69c
+      internalID: 560252070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_63
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 144
+        width: 60
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891f007769c1f294ab7f39e7e66e2e24
+      internalID: -363544686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_64
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 144
+        width: 54
+        height: 45
+      alignment: 9
+      pivot: {x: 0.32, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e758bb6f5f3204dbf53fd06baa6439
+      internalID: -1829267287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_65
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 32
+        width: 56
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bb9d09ee1e8124285186de0742c4c5
+      internalID: -2054127475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_66
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 32
+        width: 60
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721ca8f2cb36ada458f3fe0d47a537cf
+      internalID: 931437042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_67
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 32
+        width: 58
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76421d24f9a2eeb45a7ca514624aba51
+      internalID: -954775013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_68
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 32
+        width: 58
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41366952e470f5f418eacd069bca0acc
+      internalID: 1371031646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_69
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 33
+        width: 63
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13de9a96ff6218a4fa65658e7cba8574
+      internalID: 1788370038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_70
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 31
+        width: 73
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb534e1a1c9cd504994cb709fb5ed128
+      internalID: 10027660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_71
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 27
+        width: 79
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac0f9b3e3582dc48ba6eb3da5a3e277
+      internalID: 1515018474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_73
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 17
+        width: 80
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6dba49974b94743947099eaf405f05
+      internalID: -1277002037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_75
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 22
+        width: 77
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e398eaaeea377ae4383f6ccbc514345d
+      internalID: -1629717069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_77
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 19
+        width: 77
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390c46c7d076f15458cd5d3b91e19d55
+      internalID: 457284178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_79
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 19
+        width: 78
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521359dd74d323f4bb7ad2454784cf06
+      internalID: 1741345189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_81
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 19
+        width: 77
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d575c9af5e376e94791d18ec03c122f0
+      internalID: -1843822129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krauser_83
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 19
+        width: 77
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbbf8d4e015b3f4493216bb9afe12d0
+      internalID: -713237586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Krauser_0: -987207195
+      Krauser_1: 875388860
+      Krauser_10: -2147349291
+      Krauser_11: -1253481996
+      Krauser_12: 559138056
+      Krauser_13: -1336350286
+      Krauser_14: 1564984271
+      Krauser_15: -791811993
+      Krauser_16: 1332508783
+      Krauser_17: -1934912056
+      Krauser_18: -428894254
+      Krauser_19: -677253689
+      Krauser_2: 170864721
+      Krauser_20: 1539291242
+      Krauser_21: -1050803297
+      Krauser_22: 1306438901
+      Krauser_23: 1893222343
+      Krauser_24: -1243292326
+      Krauser_25: -1404744234
+      Krauser_26: 2123087654
+      Krauser_27: 1821187971
+      Krauser_28: 451508996
+      Krauser_29: -573442551
+      Krauser_3: 843894185
+      Krauser_30: -1553979117
+      Krauser_31: 1400487317
+      Krauser_32: 485422243
+      Krauser_33: -1259429642
+      Krauser_34: -1972557940
+      Krauser_35: 1313875542
+      Krauser_36: 2107367050
+      Krauser_37: 465758983
+      Krauser_38: -1299980448
+      Krauser_39: -1852223785
+      Krauser_4: -1649211897
+      Krauser_40: 1911149394
+      Krauser_41: -280173095
+      Krauser_46: 63972038
+      Krauser_49: 432705255
+      Krauser_5: -162207162
+      Krauser_52: 1622606700
+      Krauser_53: 1258321476
+      Krauser_54: -1775037225
+      Krauser_55: -1678288355
+      Krauser_6: 707751990
+      Krauser_60: -639429929
+      Krauser_61: -319364852
+      Krauser_62: 560252070
+      Krauser_63: -363544686
+      Krauser_64: -1829267287
+      Krauser_65: -2054127475
+      Krauser_66: 931437042
+      Krauser_67: -954775013
+      Krauser_68: 1371031646
+      Krauser_69: 1788370038
+      Krauser_7: 551804495
+      Krauser_70: 10027660
+      Krauser_71: 1515018474
+      Krauser_72: 359055698
+      Krauser_73: -1277002037
+      Krauser_74: -158071272
+      Krauser_75: -1629717069
+      Krauser_76: 426011240
+      Krauser_77: 457284178
+      Krauser_78: -1906329994
+      Krauser_79: 1741345189
+      Krauser_8: 1249609313
+      Krauser_80: -1634239294
+      Krauser_81: -1843822129
+      Krauser_82: 1344183694
+      Krauser_83: -713237586
+      Krauser_84: -1136197911
+      Krauser_9: -1639133604
+      Leap1: -1110193037
+      Leap10: 1108921200
+      Leap11: -1335669524
+      Leap12: -1782112069
+      Leap2: 1181467968
+      Leap3: -1851725184
+      Leap4: -425102460
+      Leap5: 1361064259
+      Leap6: -2040515953
+      Leap7: 623880657
+      Leap8: 2002660671
+      Leap9: -1461804927
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

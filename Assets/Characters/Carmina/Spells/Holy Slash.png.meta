@@ -1,0 +1,721 @@
+fileFormatVersion: 2
+guid: 0a7eac1ca6fc0f240819fc63d91667f5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Holy Slash_0
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 13
+        width: 57
+        height: 41
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542a3cbd0af59614f9eedb40abafcbcc
+      internalID: -1468156880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 13
+        width: 51
+        height: 38
+      alignment: 9
+      pivot: {x: 0.66697186, y: 0.0013488218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0824b2411e6fb6a4ca48bb8344025074
+      internalID: -42042615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_2
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 13
+        width: 47
+        height: 44
+      alignment: 9
+      pivot: {x: 0.83102614, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d453cddceb45446bfbafc9324bb01e
+      internalID: 1583249472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_3
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 13
+        width: 53
+        height: 38
+      alignment: 9
+      pivot: {x: 0.8304904, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506ec475029b50e4baa6d8587c6df3c6
+      internalID: -1005060023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_4
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 13
+        width: 59
+        height: 41
+      alignment: 9
+      pivot: {x: 0.8478156, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae30951a5e25ae43a8f2beeac9a24aa
+      internalID: -501611414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_5
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 3
+        width: 69
+        height: 51
+      alignment: 9
+      pivot: {x: 0.56413996, y: 0.19735272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5c067b763a5f3438b24c5f17129fcf
+      internalID: -1375888002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_6
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1
+        width: 74
+        height: 64
+      alignment: 9
+      pivot: {x: 0.6215639, y: 0.1873889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b944bb9572bad4ba9ef5b624ef8ac8
+      internalID: 1460910027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_7
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 0
+        width: 75
+        height: 74
+      alignment: 9
+      pivot: {x: 0.6129541, y: 0.17662558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf191cc8ed2681b4cb430f4832a8903a
+      internalID: -1625010242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_8
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 2
+        width: 63
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5881289, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b1e71daf3381a4894fba7cb03f49ad
+      internalID: 1860819026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_9
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 2
+        width: 62
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5784639, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4476fa06b2ed9b4d8804effaabd72c3
+      internalID: 709340799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_10
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 5
+        width: 62
+        height: 72
+      alignment: 9
+      pivot: {x: 0.579161, y: 0.115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec69edfe22680ef4da518c883d84a4d2
+      internalID: -1260731002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_11
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 5
+        width: 61
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5907683, y: 0.109708294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298d7a4671a6c474fa05a03d795e63eb
+      internalID: 85476969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_12
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 6
+        width: 60
+        height: 87
+      alignment: 9
+      pivot: {x: 0.6335327, y: 0.08159963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f755ae1c7293a4a98e535e915fa7c0
+      internalID: -1954601071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_13
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 13
+        width: 44
+        height: 73
+      alignment: 9
+      pivot: {x: 0.7729048, y: 0.00000007838419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a5ef3592c45fb42986b688b9ec88b6
+      internalID: -1609399923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_14
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 6
+        width: 81
+        height: 78
+      alignment: 9
+      pivot: {x: 0.8763262, y: 0.090873815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04deefbe2ec3d2d43829773e6fc83f66
+      internalID: -2087686381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_15
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 6
+        width: 88
+        height: 77
+      alignment: 9
+      pivot: {x: 0.7730741, y: 0.091319256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2e888c29485e340a7db60cd689d5ac
+      internalID: 596739098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_16
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 10
+        width: 91
+        height: 32
+      alignment: 9
+      pivot: {x: 0.8680863, y: 0.09488946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b6214ac4e61b249ba3d0e7b7478845
+      internalID: -1870912217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_17
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 11
+        width: 137
+        height: 41
+      alignment: 9
+      pivot: {x: 0.37217546, y: 0.049182497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e8dbb34c72bcb4ca318490b9185246
+      internalID: 1784640319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_18
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 13
+        width: 134
+        height: 86
+      alignment: 9
+      pivot: {x: 0.41854447, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6596ea62addfc6b469db65ee9f7bd122
+      internalID: 1703596355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_19
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 13
+        width: 153
+        height: 89
+      alignment: 9
+      pivot: {x: 0.4778997, y: 0.0013329688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042ce8178e5cf4245bcb65c1c69b47e8
+      internalID: -1747695627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_20
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 13
+        width: 90
+        height: 65
+      alignment: 9
+      pivot: {x: 0.84510094, y: 0.002859541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e89aca7bb6f8ac418ee24954779ab0f
+      internalID: -2028243207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_21
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 13
+        width: 88
+        height: 64
+      alignment: 9
+      pivot: {x: 0.84116155, y: 0.0015903711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9c1e933c5834446bc2837a59d97394
+      internalID: 147178479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_22
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 13
+        width: 90
+        height: 63
+      alignment: 9
+      pivot: {x: 0.8444417, y: 0.0031057238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc0a4778d920704e8c839a2c81ab702
+      internalID: -1001716903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_23
+      rect:
+        serializedVersion: 2
+        x: 4043
+        y: 13
+        width: 84
+        height: 60
+      alignment: 9
+      pivot: {x: 0.8334205, y: 0.0020229816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25009737dcdff4439358de4e81e7ada
+      internalID: 120004930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_24
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 13
+        width: 82
+        height: 59
+      alignment: 9
+      pivot: {x: 0.8412074, y: 0.0016375234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3f08f0c8a5e97489cedcf35c57d88d
+      internalID: -1593746774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_25
+      rect:
+        serializedVersion: 2
+        x: 4405
+        y: 13
+        width: 56
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7854004, y: 0.0035765285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e790368c2531a084eab7770d6a4ebfe9
+      internalID: 1720624932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holy Slash_26
+      rect:
+        serializedVersion: 2
+        x: 4598
+        y: 11
+        width: 28
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5311628, y: 0.05590582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797d7abe9cd7e6843bd8ef2dcb99b4d1
+      internalID: 581582601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Holy Slash_0: -1468156880
+      Holy Slash_1: -42042615
+      Holy Slash_10: -1260731002
+      Holy Slash_11: 85476969
+      Holy Slash_12: -1954601071
+      Holy Slash_13: -1609399923
+      Holy Slash_14: -2087686381
+      Holy Slash_15: 596739098
+      Holy Slash_16: -1870912217
+      Holy Slash_17: 1784640319
+      Holy Slash_18: 1703596355
+      Holy Slash_19: -1747695627
+      Holy Slash_2: 1583249472
+      Holy Slash_20: -2028243207
+      Holy Slash_21: 147178479
+      Holy Slash_22: -1001716903
+      Holy Slash_23: 120004930
+      Holy Slash_24: -1593746774
+      Holy Slash_25: 1720624932
+      Holy Slash_26: 581582601
+      Holy Slash_3: -1005060023
+      Holy Slash_4: -501611414
+      Holy Slash_5: -1375888002
+      Holy Slash_6: 1460910027
+      Holy Slash_7: -1625010242
+      Holy Slash_8: 1860819026
+      Holy Slash_9: 709340799
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

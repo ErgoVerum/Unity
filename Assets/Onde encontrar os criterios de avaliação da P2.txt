@@ -1,0 +1,8 @@
+Julio Cesar - 2214290014
+
+Nomes dos scripts que você precisa olhar
+
+Movimentação de jogo plataforma (2D ou 3D) - Carmina - Linhas 68 e 69
+Raycast e/ou outras funções de cast (ex.: Overlap Shapes)  - Carmina - Linha 61
+Canvas (Imagens, Botões e/ou Texto) - SpawnEnemies - Linhas 41 a 48
+Arrays, Listas (List<T>) e/ou Pilhas (Stack<T>) - SpawnEnemies - Linhas 53 a 55
